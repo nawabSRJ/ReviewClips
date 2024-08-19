@@ -8,7 +8,7 @@ export default function Header() {
               ReviewClips
             </a>
             <nav class="mr-auto ml-20 md:py-4 flex flex-wrap items-center justify-center text-[20px]">
-              <a href={'/'} class="mr-5 text-zinc-700 hover:text-zinc-950">About Us</a>
+              <a  class="mr-5 text-zinc-700 hover:text-zinc-950" href={'/'}>About Us</a>
               <a href={'/about-us'} class="mr-5 text-zinc-700 hover:text-zinc-950">Guide</a>
             </nav>
           </div>
